@@ -10,6 +10,7 @@ permalink: community/ui-components.html
 * **[Ant Design of React](https://github.com/ant-design/ant-design)** An enterprise-class UI design language and React-based implementation.
 * **[Belle](https://github.com/nikgraf/belle/):** Configurable React Components with great UX.
 * **[chartify](https://github.com/kirillstepkin/chartify)**: Ultra lightweight and customizable React.js chart component.
+* **[DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/)**: 100% Native React datagrid with composable and extensible plugin-based architecture and seamless Bootstrap and Material-UI theming.
 * **[Elemental UI](http://elemental-ui.com):** A UI toolkit for React websites and apps, themeable and composed of individually packaged components
 * **[Grommet](https://grommet.io/)** The most advanced open source UX framework for enterprise applications.
 * **[Halogen](https://yuanyan.github.io/halogen/):** A collection of highly customizable loading spinner animations with React.
@@ -72,6 +73,7 @@ permalink: community/ui-components.html
 ## Fee Based Components {#fee-based-components}
 
 * **[ag-Grid](https://www.ag-grid.com)** Advanced data grid / data table for React.
+* **[DevExtreme Component Suite](https://js.devexpress.com)** Full set of enterprise grade controls including Editors, DataGrid, Scheduler, Charting and Reporting for React with Technical Support.
 * **[ExtReact components](https://www.sencha.com/products/extreact//)**: 115+ Ready-to-Use UI Components.
 * **[Grapecity Wijmo UI Components for React](https://www.grapecity.com/en/react/)**: Expand your React UI options with Wijmo’s complete collection of JavaScript components.
 * **[jQWidgets React components](https://www.jqwidgets.com/react/)**: Enterprise Ready 70+ UI Components.
